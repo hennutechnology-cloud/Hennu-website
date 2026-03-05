@@ -1,0 +1,256 @@
+Design a modern, animated, high-end SaaS-style website for a startup software development company named Hennu Tech.
+
+Hennu Tech is a software house that builds custom software solutions including AI systems, machine learning platforms, web applications, mobile apps, and enterprise digital transformation tools.
+
+The company primarily serves businesses in UAE, Saudi Arabia, and Egypt.
+
+The website should look like a premium AI startup / Silicon Valley tech company website.
+
+Design Style
+
+Create a futuristic, innovative, technology-focused interface.
+
+Design style inspiration:
+
+Modern AI companies
+
+Clean SaaS startup landing pages
+
+Minimal but powerful visual hierarchy
+
+Visual design elements:
+
+Dark theme
+
+Deep navy / black background
+
+Neon gradients (blue, purple, cyan)
+
+Subtle glassmorphism
+
+Smooth glowing highlights
+
+Rounded UI components
+
+Soft shadows
+
+Typography:
+
+Modern geometric sans-serif
+
+Large bold hero headings
+
+Clean readable body text
+
+Animations & Interactions
+
+Include subtle modern web animations:
+
+Smooth scrolling transitions
+
+Hover glow effects on cards
+
+Floating particle / neural network background
+
+Animated icons
+
+Gradient button hover animations
+
+Section fade-in on scroll
+
+The site should feel alive, interactive, and premium.
+
+Website Structure
+1. Hero Section
+
+Full-screen hero.
+
+Background:
+Animated AI neural network / floating data particles.
+
+Headline:
+“Engineering Intelligent Software for the Future”
+
+Subheadline:
+Custom software, AI solutions, and scalable digital platforms for businesses in the Middle East.
+
+Buttons:
+
+Start Your Project
+
+Explore Our Solutions
+
+Include:
+
+Animated illustration of AI + cloud + connected systems
+
+2. About Hennu Tech
+
+Short introduction to the company.
+
+Content highlights:
+
+Innovative software development
+
+AI-driven solutions
+
+Focus on scalable systems
+
+Serving UAE, Saudi Arabia, and Egypt
+
+Use icons + subtle animation.
+
+3. Services Section
+
+Create animated service cards arranged in a grid.
+
+Services:
+
+Custom Software Development
+
+Artificial Intelligence Solutions
+
+Machine Learning Systems
+
+Web Application Development
+
+Mobile App Development
+
+Cloud Infrastructure & DevOps
+
+Data Engineering & Analytics
+
+Business Process Automation
+
+Each card should have:
+
+Icon
+
+Short description
+
+Hover animation
+
+4. Industries We Serve
+
+Display icons or illustrations for industries:
+
+FinTech
+
+Healthcare
+
+Logistics
+
+E-Commerce
+
+Smart Cities
+
+Startups & Scaleups
+
+Use animated icons.
+
+5. Our Development Process
+
+Create a horizontal timeline with animated steps.
+
+Steps:
+
+Discover
+
+Design
+
+Develop
+
+Deploy
+
+Scale
+
+Each step has an icon and short description.
+
+6. Technology Stack
+
+Display logos or icons for technologies:
+
+Python
+
+TensorFlow
+
+PyTorch
+
+React
+
+Node.js
+
+Docker
+
+Kubernetes
+
+AWS
+
+Azure
+
+Google Cloud
+
+Use animated tech stack grid.
+
+7. Why Choose Hennu Tech
+
+Highlight advantages:
+
+AI-first engineering
+
+Scalable cloud architectures
+
+Startup agility
+
+Enterprise-grade security
+
+Regional expertise in UAE, Saudi Arabia, Egypt
+
+Display as feature cards with glowing icons.
+
+8. Call To Action
+
+Large section with gradient background.
+
+Headline:
+
+“Let’s Build Your Next Intelligent Product.”
+
+Button:
+Book a Consultation
+
+9. Footer
+
+Include:
+
+Company name: Hennu Tech
+
+Links:
+
+Services
+
+Industries
+
+About
+
+Contact
+
+Region served:
+
+UAE | Saudi Arabia | Egypt
+
+Social icons.
+
+Overall Goal
+
+Create a premium, modern AI startup website that communicates:
+
+innovation
+
+intelligence
+
+cutting-edge technology
+
+enterprise software expertise
+
+The website should feel like a next-generation software company building AI-powered solutions.
